@@ -1,5 +1,8 @@
-include "max.h";
-include "knapSack.h";
+#include "max.h"
+#include "knapSack.h"
+#include <iostream>
+
+using namespace std;
 int main()
 {
     int val[] = {60, 100, 120};
